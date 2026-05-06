@@ -30,4 +30,4 @@
 
 ---
 
-![GitHub Stats](https://streak-stats.demolab.com?user=thisura-maleesha&theme=tokyonight&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=thisura-maleesha&color=blue&style=flat)
