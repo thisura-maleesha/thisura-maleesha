@@ -1,4 +1,4 @@
-# Hi there, I'm Thisura Maleesha! 🐇
+# Hi there, I'm Thisura Maleesha 
 
 🎓 Student | 💻 Aspiring Developer | 🇱🇰 Sri Lanka
 
