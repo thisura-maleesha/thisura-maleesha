@@ -30,4 +30,4 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisura-maleesha&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=thisura-maleesha&theme=tokyonight&hide_border=true)
