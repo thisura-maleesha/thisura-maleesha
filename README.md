@@ -1,6 +1,8 @@
-# Hi there, I'm Thisura Maleesha 
+# Hi there, I'm Thisura Maleesha! 👋
 
-🎓 Student | 💻 Aspiring Developer | 🇱🇰 Sri Lanka
+🎓 BSc (Hons) in Information Communication Technology
+🏫 University of Vavuniya, Sri Lanka
+💻 Aspiring Developer | 🇱🇰 Sri Lanka
 
 ---
 
@@ -17,11 +19,15 @@
 
 | Project | Description |
 |---------|-------------|
-| [🐇 Rabbit Maze Game](https://github.com/thisura-maleesha/rabbit-maze-game) | Maze game built with Processing |
-| [📚 Bookshop Web App](https://github.com/thisura-maleesha/bookshop-web-app) | Responsive bookshop website |
+| [🐇 Rabbit Maze Game](https://github.com/thisura-maleesha/rabbit-maze-game) | Maze game built with Processing (Java) |
+| [📚 Bookshop Web App](https://github.com/thisura-maleesha/bookshop-web-app) | Responsive bookshop website with HTML & CSS |
 
 ---
 
 ## 📬 Contact
 
 📧 thisuramalesha099@gmail.com
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisura-maleesha&show_icons=true&theme=tokyonight)
