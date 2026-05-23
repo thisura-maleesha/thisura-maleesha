@@ -1,6 +1,6 @@
 # Hi there, I'm Thisura Maleesha! 👋
 
-🎓 BSc (Hons) in Information Communication Technology
+🎓 BICT (Hons) in Information Communication Technology
 🏫 University of Vavuniya, Sri Lanka
 💻 Aspiring Developer | 🇱🇰 Sri Lanka
 
