@@ -1,33 +1,58 @@
-# Hi there, I'm Thisura Maleesha! 👋
+<div align="center">
 
-🎓 BICT (Hons) in Information Communication Technology
-🏫 University of Vavuniya, Sri Lanka
-💻 Aspiring Developer | 🇱🇰 Sri Lanka
+# Thisura Maleesha
 
----
+**BICT (Hons) · University of Vavuniya, Sri Lanka · Aspiring Developer**
 
-## 🛠️ Skills
+[![GitHub followers](https://img.shields.io/github/followers/thisura-maleesha?label=Follow&style=social)](https://github.com/thisura-maleesha)
+[![Profile Views](https://komarev.com/ghpvc/?username=thisura-maleesha&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/thisura-maleesha)
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Processing](https://img.shields.io/badge/-Processing-006699?style=flat)
+</div>
 
 ---
 
-## 🚀 Projects
+## About Me
 
-| Project | Description |
-|---------|-------------|
-| [🐇 Rabbit Maze Game](https://github.com/thisura-maleesha/rabbit-maze-game) | Maze game built with Processing (Java) |
-| [📚 Bookshop Web App](https://github.com/thisura-maleesha/bookshop-web-app) | Responsive bookshop website with HTML & CSS |
+I'm an undergraduate student in Information Communication Technology at the University of Vavuniya, Sri Lanka. I enjoy building web experiences and exploring creative ways to combine design with code.
 
----
-
-## 📬 Contact
-
-📧 thisuramalesha099@gmail.com
+- 📍 Ratnapura, Sri Lanka
+- 📬 [thisuramaleesha099@gmail.com](mailto:thisuramaleesha099@gmail.com)
+- 🌱 Currently learning and growing as a developer
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=thisura-maleesha&color=blue&style=flat)
+## Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-006699?style=flat-square&logo=processingfoundation&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+## Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Rabbit Maze Game](https://github.com/thisura-maleesha) | Interactive maze game with pathfinding logic | Processing (Java) |
+| [Bookshop Web App](https://github.com/thisura-maleesha) | Responsive bookshop website | HTML, CSS |
+| [Birthday Project](https://thisura-maleesha.github.io/birthday-project/) | Animated interactive birthday surprise | HTML, CSS, JavaScript |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Thisura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisura-maleesha&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisura-maleesha&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Open to collaborations and learning opportunities · Sri Lanka 🇱🇰</sub>
+</div>
