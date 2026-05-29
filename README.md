@@ -45,10 +45,8 @@ I'm an undergraduate student in Information Communication Technology at the Univ
 
 <div align="center">
 
-<a href="https://github.com/thisura-maleesha">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=thisura-maleesha&hide_border=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisura-maleesha&layout=compact&hide_border=true&theme=default&langs_count=6" />
-</a>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=thisura-maleesha&hide_border=true&theme=default" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisura-maleesha&theme=default&hide_border=true" />
 
 </div>
 
