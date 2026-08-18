@@ -1,6 +1,6 @@
 <div align="center">
 
-# S.D.Thisura Maleesha Maleesha
+# S.D.Thisura Maleesha Rathnathilaka
 
 **BICT (Hons) · University of Vavuniya, Sri Lanka · Aspiring Developer**
 
